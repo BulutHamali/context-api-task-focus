@@ -52,7 +52,7 @@ src/
 ```
 
 ## Preview
-![TaskFocus Screenshot](./assets/screenshot.png)
+![TaskFocus Screenshot](.src/assets/screenshot.png)
 
 
 ## Live Demo
