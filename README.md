@@ -51,13 +51,9 @@ src/
 ├── main.jsx              # Entry point
 ```
 
-## Customization
+## Preview
+![TaskFocus Screenshot](./assets/screenshot.png)
 
-To change the project name (e.g., from TaskFocus to something else):
-
-- Edit the heading in `App.jsx`
-- Optionally, update the `<title>` in `public/index.html`
-- Rename the project in `package.json`
 
 ## Live Demo
 
